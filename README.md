@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi, I am Prajjwal Devkota<br><br>I am currently working on<br>NextJS, Data Analysis
+Hi, I am Prajjwal Devkota<br><br>I am currently working on<br>NextJS, Data Analysis, ML/AI
 
 
 ## 🌐 Socials:
